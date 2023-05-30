@@ -59,4 +59,4 @@ jobs:
         with:
           name: output
           path: |
-            build
+            src/api/js/build
